@@ -4,10 +4,10 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 Ha HaHa ?Ha
 MetaCharacters (Need to be escaped):
 . ^ $ * + ? { } [ ] \ | ( )
-miguelnievas*com
-miguelnievas.com
-miguelnievasocom
-miguelnievas hola
+hegoigaritaonandia*com
+hegoigaritaonandia.com
+hegoigaritaonandiacom
+hegoigaritaonandia hola
 321--555-4321
 123.555.1234
 123*555*1234
