@@ -39,12 +39,10 @@ Marta Gómez Jiménez **TA Data Science**
 - **Toma de decisiones en tiempo real**
     
     
-    - **First to Market Strategy (PMV)**
+    - **First to Market Strategy**
         
         
-        ![chess](./3-Tableau/img/chess.PNG)
-        
-        Lo ideal es salir (pivotar) el primero en un segmento del mercado. Esto permite ganar ventaja frente a la competencia que se genere en el momento que te copien tu producto/servicio y puedan lanzarlo al mercado (ej. iPhone).
+        Lo ideal es salir el primero en un segmento del mercado. Esto permite ganar ventaja frente a la competencia que se genere en el momento que te copien tu producto/servicio y puedan lanzarlo al mercado (ej. iPhone).
         
     
     - **Ventaja Competitiva**
@@ -57,7 +55,6 @@ Marta Gómez Jiménez **TA Data Science**
         2. Diferenciación 
         3. Nicho o especialización 
         
-        ![gartner](./3-Tableau/img/gartner.PNG)
         
 
 ---
@@ -72,8 +69,6 @@ Marta Gómez Jiménez **TA Data Science**
 Trabajan con **enormes cantidades de datos** en la nube traducidos en métricas, llamados KPIs (Key Performance Indicators) de los principales negocios o áreas de una compañía. Son indicadores clave o medidores de desempeño, es una medida del nivel del rendimiento de un proceso.
     
 
-
-    ![herramientas](./3-Tableau/img/herramientas_bi.PNG)
     
     - **Microsoft Power BI**
         
@@ -117,8 +112,6 @@ Trabajan con **enormes cantidades de datos** en la nube traducidos en métrica
 ---
 
 # ****Storytelling****
-
-![workflow](./3-Tableau/img/workflow.PNG)
 
 Cómo crear una presentación efectiva, es decir, maximizar nuestra capacidad de impacto e influencia.
 
